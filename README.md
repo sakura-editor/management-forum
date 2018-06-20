@@ -3,7 +3,7 @@
 
 本来 Issues はタスクリストとして扱うべきものですが、本リポジトリの Issues に限っては例外的に掲示板的な用途での運用を行います。
 
-OSDNフォーラム等のフォーラム専用サービスを使う選択肢もありますが、できるだけ連絡系統が GitHub に集約されていることが好ましいため、今回は本 GitHub リポジトリの [Issues](https://github.com/sakura-editor/management-forum/issues) を掲示板として運用する運びとします。
+OSDNフォーラム等のフォーラム専用サービスを使う選択肢もありましたが、できるだけ連絡系統が GitHub に集約されていることが好ましいため、今回は本 GitHub リポジトリの [Issues](https://github.com/sakura-editor/management-forum/issues) を掲示板として運用する運びとします。
 
 ## 運用ルール
 - [Issues](https://github.com/sakura-editor/management-forum/issues) のみを使います。何をどう書くかについてのルールは設けません。トピックが煩雑になってきて追加ルールが必要と判断するタイミングが来たらそのときにルールを考えましょう。
