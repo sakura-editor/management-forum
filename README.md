@@ -13,6 +13,9 @@ OSDNフォーラム等のフォーラム専用サービスを使う選択肢も�
 - まず第一に、コアメンバー同士の意識合わせや告知事項の伝達等を行うことを目的に考えています。
 - コアメンバー以外の方でも発言できますので、管理・運用周りについて何かご意見等ありましたらこの場を使ってご連絡いただくことも可能です。
 
+## sakura と management-forum どちらの Issues に登録すれば良いか迷う場合
+[sakura リポジトリ側の Issues](https://github.com/sakura-editor/sakura/issues) に登録すべきか [management-forum リポジトリ側の Issues](https://github.com/sakura-editor/management-forum/issues) に登録すべきか迷う話題がある場合には、どちらに登録してもらっても良いです。皆で話し合いながら必要とあらば場所を移す判断を随時していきましょう。
+
 ## ここ以外の発言の場
 ### チャットルーム (Discord)
 よりカジュアルな発言の場として [Discord](https://discord.gg/MTWB4ut) というチャットルームも用意してあります。正式に話し合うようなものでもない「つぶやき」レベルの話であれば [Discord](https://discord.gg/MTWB4ut) を活用するのが気楽で良いです。
